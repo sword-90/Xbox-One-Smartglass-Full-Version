@@ -233,3 +233,6 @@ This repository serves as the official landing page for Xbox One SmartGlass. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xbox One SmartGlass today!**
+
+---
+**Last updated:** 2026-09-11 15:27:42 UTC
